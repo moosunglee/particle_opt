@@ -8,665 +8,70 @@
     "record": "public",
     "status": "open"
   },
-  "created": "2025-08-22T12:16:26.721292+00:00",
+  "created": "2025-08-22T15:33:35.613270+00:00",
   "custom_fields": {},
   "deletion_status": {
     "is_deleted": false,
     "status": "P"
   },
   "files": {
-    "count": 36,
+    "count": 1,
     "enabled": true,
     "entries": {
-      "FigR_offcenter.mat": {
+      "particleopt_datafolder.zip": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:f85aa534127494d65c0052663f4729c1",
-        "ext": "mat",
-        "id": "f8673f49-25a7-4a1b-ae6d-eb6c51d04411",
-        "key": "FigR_offcenter.mat",
+        "checksum": "md5:a519fbf472f9fe4c46d87e6de8b8326d",
+        "ext": "zip",
+        "id": "e32a26a0-73e5-4fd5-8049-0929526fd62a",
+        "key": "particleopt_datafolder.zip",
         "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/FigR_offcenter.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/FigR_offcenter.mat"
+          "content": "https://zenodo.org/api/records/16928668/files/particleopt_datafolder.zip/content",
+          "self": "https://zenodo.org/api/records/16928668/files/particleopt_datafolder.zip"
         },
         "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 3905,
-        "storage_class": "L"
-      },
-      "FigR_relativephase.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:60eff6f29972657f50ab29fac95590cd",
-        "ext": "mat",
-        "id": "4896a30d-2289-4d3c-9aab-f1b95c3404bf",
-        "key": "FigR_relativephase.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/FigR_relativephase.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/FigR_relativephase.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 4071,
-        "storage_class": "L"
-      },
-      "SiO2_cbs_mie_rayleigh.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:52208808d324b191a95732a410ecacb2",
-        "ext": "mat",
-        "id": "dad178a2-d6c8-4a2f-8db0-35c952942fc7",
-        "key": "SiO2_cbs_mie_rayleigh.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/SiO2_cbs_mie_rayleigh.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/SiO2_cbs_mie_rayleigh.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 15763,
-        "storage_class": "L"
-      },
-      "SiO2_extend_Fs_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:73a5542aecdc2052fc2a2a206bc32b62",
-        "ext": "mat",
-        "id": "04b2a7b6-2f42-4393-87c9-52af2ad138dd",
-        "key": "SiO2_extend_Fs_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/SiO2_extend_Fs_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/SiO2_extend_Fs_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 4974,
-        "storage_class": "L"
-      },
-      "Si_cbs_mie_rayleigh.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:c92c360f0cc9702cd1d82f60a1f31b33",
-        "ext": "mat",
-        "id": "32ed1b77-34c5-4c35-a834-5f94169fa3bc",
-        "key": "Si_cbs_mie_rayleigh.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/Si_cbs_mie_rayleigh.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/Si_cbs_mie_rayleigh.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 16363,
-        "storage_class": "L"
-      },
-      "Si_extend_Fs_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:758c87f2bbd5dd36b98ecfc99fcb2aed",
-        "ext": "mat",
-        "id": "cced2a6c-3925-45ee-8111-9e5be053e763",
-        "key": "Si_extend_Fs_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/Si_extend_Fs_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/Si_extend_Fs_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 4770,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:c6de4a25f895288f1fb0309e22d62d7a",
-        "ext": "mat",
-        "id": "bd426df2-3299-42a4-86a7-e5a8e4aa0069",
-        "key": "cyl_summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 18312220,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:bac25126caa76356fe3ef8b43bb48a20",
-        "ext": "mat",
-        "id": "0e49d47e-6be7-4eef-b749-d24148efbba3",
-        "key": "cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 9704109,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:8e33ed2dc5cf7aebac184b5b6c1479c7",
-        "ext": "mat",
-        "id": "d575df06-9e5e-4836-842a-1278a1facf6e",
-        "key": "cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 9665648,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:bf8420b05c9fc37327acac57820cd4b1",
-        "ext": "mat",
-        "id": "0c13d829-a411-4a4b-a6d5-9e32059bc5f4",
-        "key": "cyl_summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 9713508,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:d6833ea97cf604ff0b3ea0ed8efaecb8",
-        "ext": "mat",
-        "id": "21aa36a2-df1a-43a2-a669-63aba9790976",
-        "key": "cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 18399656,
-        "storage_class": "L"
-      },
-      "cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:5184ac4b53f35722b164a42affb6b4c1",
-        "ext": "mat",
-        "id": "10c64391-18cf-440b-ada9-a89c980d5dd3",
-        "key": "cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/cyl_summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 18479948,
-        "storage_class": "L"
-      },
-      "localeq_20250315_best_Si_dx_31_M0_5575_z0_35_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:c3a888316bda5cb4f6f141166449098d",
-        "ext": "mat",
-        "id": "32af52b1-92c3-453b-9207-6d968ac80639",
-        "key": "localeq_20250315_best_Si_dx_31_M0_5575_z0_35_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/localeq_20250315_best_Si_dx_31_M0_5575_z0_35_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/localeq_20250315_best_Si_dx_31_M0_5575_z0_35_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 11238059,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_SiO2_dx_31_M0_11494_z0_20.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:305afd1e2e1e7302af025456e4c3867f",
-        "ext": "mat",
-        "id": "c768978d-208d-47cc-b0ff-34f66c128360",
-        "key": "summary_20250315_best_SiO2_dx_31_M0_11494_z0_20.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_11494_z0_20.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_11494_z0_20.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 20901655,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_SiO2_dx_31_M0_14137_z0_25.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:86d449c1afcacc72ac8981a9be190060",
-        "ext": "mat",
-        "id": "fd27c28a-6f4b-4ebf-9b69-b1d0a249472f",
-        "key": "summary_20250315_best_SiO2_dx_31_M0_14137_z0_25.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_14137_z0_25.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_14137_z0_25.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 20916639,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_SiO2_dx_31_M0_7238_z0_15.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:85696c79700bae010bdc8a509efa72f3",
-        "ext": "mat",
-        "id": "60488ba6-0c1b-405b-a2f8-49d1ba134444",
-        "key": "summary_20250315_best_SiO2_dx_31_M0_7238_z0_15.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_7238_z0_15.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_7238_z0_15.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 20859740,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:2413f2b00bb050f6b681fbb91786f644",
-        "ext": "mat",
-        "id": "d9bb3ad4-8f54-4d1c-a1d5-46c61777a623",
-        "key": "summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_SiO2_dx_31_M0_905_z0_20.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 20546632,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:fc4e89dc71c880572f0ffdaea5900f4b",
-        "ext": "mat",
-        "id": "7f3d3d54-0511-4bae-a43f-00f943218db5",
-        "key": "summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 13174365,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:d6cc7d60959feb8b0d3e65c717480d8a",
-        "ext": "mat",
-        "id": "b2ce6e19-7f27-4848-91a8-766133267bb1",
-        "key": "summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_1e-02_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 11210978,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:14866de8a5bb5f0a01ae827b78527957",
-        "ext": "mat",
-        "id": "d4d0962b-9018-4561-b08c-45199f51c16c",
-        "key": "summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_45_bool_1110_step_3e-02_tm_3e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 11245666,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:9839de6763f60013278369316d720b57",
-        "ext": "mat",
-        "id": "d99869e3-e732-4321-b1fb-598a9d6e969d",
-        "key": "summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_4189_z0_55_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 11932182,
-        "storage_class": "L"
-      },
-      "summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:b78c27b66bf7158cbcfcb81e3e419371",
-        "ext": "mat",
-        "id": "ab8752d2-1ff1-47bc-bda2-df76ef142deb",
-        "key": "summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250315_best_Si_dx_31_M0_7238_z0_70_bool_1110_step_1e-02_tm_1e-01_tr_3e-03_te_1e-02_smth_1_pbta_50_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 12120827,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_2145_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:4ad2a3c814e52d10045381b9d4aadb33",
-        "ext": "mat",
-        "id": "b48ce7d9-0fc8-48f9-a019-242da88e7459",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_2145_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_2145_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_2145_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21453753,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_2572_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:d23535cded0f4dbdcdccb6b5daa4e793",
-        "ext": "mat",
-        "id": "598f8955-b1f9-492f-b620-ee515f2bf905",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_2572_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_2572_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_2572_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21678987,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_3054_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:224753cc43c5553949f611f54734df74",
-        "ext": "mat",
-        "id": "15e8d149-8322-4848-9e5d-18b70f0efa91",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_3054_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3054_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3054_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21646641,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:43eaa4075afd0c1ed7a7c11b246da258",
-        "ext": "mat",
-        "id": "333b1f68-1f4f-4382-aa6e-ece5792e7781",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21679913,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:cb9b5f54b53218b6a913e51b369045c8",
-        "ext": "mat",
-        "id": "f67f333d-c9d8-461a-88d0-fe72f8df1551",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_3591_z0_30_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21726326,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_4189_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:e9aba1d658a2b18d57e81c6c4ec980a8",
-        "ext": "mat",
-        "id": "1b51ee5f-c158-4263-b3f8-cd78dabadc52",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_4189_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_4189_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_4189_z0_20_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21699422,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:ab11d55e08066291f340732a110cfaf9",
-        "ext": "mat",
-        "id": "84b42b69-7bd8-4449-80ac-c39a52ded295",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21766593,
-        "storage_class": "L"
-      },
-      "summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:52bbf1ff0b134e67856ebb955e446195",
-        "ext": "mat",
-        "id": "1f4211a8-1af7-4d1a-b6e8-c581f9f3fa70",
-        "key": "summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_20250808_best_bingood_SiO2_dx_31_M0_5575_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 21780270,
-        "storage_class": "L"
-      },
-      "summary_data_14137.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:cf394af69a8f3413210c5cb650fda339",
-        "ext": "mat",
-        "id": "b6a9e550-f2c8-482b-b196-d3786b43b519",
-        "key": "summary_data_14137.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_data_14137.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_data_14137.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 45082951,
-        "storage_class": "L"
-      },
-      "summary_data_4189.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:6d1f249d6de01067a9b57c395bf15cb4",
-        "ext": "mat",
-        "id": "da047e5e-17e8-49b6-b48f-039ac875cb5e",
-        "key": "summary_data_4189.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_data_4189.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_data_4189.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 45467739,
-        "storage_class": "L"
-      },
-      "summary_data_7238.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:6f95466146e54be05c308b4626965fd5",
-        "ext": "mat",
-        "id": "b398f005-27a5-4690-af09-328ae0bce397",
-        "key": "summary_data_7238.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_data_7238.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_data_7238.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 45694736,
-        "storage_class": "L"
-      },
-      "summary_data_905.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:d9fbeafc588ed637d11259b601bb3356",
-        "ext": "mat",
-        "id": "790f35b4-6db6-48be-8f10-66eba0ce0fb6",
-        "key": "summary_data_905.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/summary_data_905.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/summary_data_905.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 44993753,
-        "storage_class": "L"
-      },
-      "torque_summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:ad4d558363a1511b5e0ae4b9fc3d7455",
-        "ext": "mat",
-        "id": "eff0eb8b-57ce-4c17-9975-4c2b0d38156b",
-        "key": "torque_summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/torque_summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/torque_summary_20250315_best_Si_dx_31_M0_4189_z0_35_bool_1110_step_1e-02_tm_5e-01_tr_3e-03_te_1e-02_smth_1_pbta_20_gam_105_cyl_fixz.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 2056,
-        "storage_class": "L"
-      },
-      "torque_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat": {
-        "access": {
-          "hidden": false
-        },
-        "checksum": "md5:005cd80ae96d83a4ba1c3e9a1a347fda",
-        "ext": "mat",
-        "id": "b10301bf-3d4d-4f55-a1f5-f11007605265",
-        "key": "torque_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat",
-        "links": {
-          "content": "https://zenodo.org/api/records/16927112/files/torque_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat/content",
-          "self": "https://zenodo.org/api/records/16927112/files/torque_summary_20250808_best_bingood_SiO2_dx_31_M0_4849_z0_40_step_1e-02_tm_5e-02_tr_3e-02.mat"
-        },
-        "metadata": {},
-        "mimetype": "application/octet-stream",
-        "size": 3614,
+        "mimetype": "application/zip",
+        "size": 592431304,
         "storage_class": "L"
       }
     },
     "order": [],
-    "total_bytes": 593148432
+    "total_bytes": 592431304
   },
-  "id": "16927112",
+  "id": "16928668",
   "is_draft": false,
   "is_published": true,
   "links": {
-    "access": "https://zenodo.org/api/records/16927112/access",
-    "access_grants": "https://zenodo.org/api/records/16927112/access/grants",
-    "access_links": "https://zenodo.org/api/records/16927112/access/links",
-    "access_request": "https://zenodo.org/api/records/16927112/access/request",
-    "access_users": "https://zenodo.org/api/records/16927112/access/users",
-    "archive": "https://zenodo.org/api/records/16927112/files-archive",
-    "archive_media": "https://zenodo.org/api/records/16927112/media-files-archive",
-    "communities": "https://zenodo.org/api/records/16927112/communities",
-    "communities-suggestions": "https://zenodo.org/api/records/16927112/communities-suggestions",
-    "doi": "https://doi.org/10.5281/zenodo.16927112",
-    "draft": "https://zenodo.org/api/records/16927112/draft",
-    "files": "https://zenodo.org/api/records/16927112/files",
-    "latest": "https://zenodo.org/api/records/16927112/versions/latest",
-    "latest_html": "https://zenodo.org/records/16927112/latest",
-    "media_files": "https://zenodo.org/api/records/16927112/media-files",
-    "parent": "https://zenodo.org/api/records/16927111",
-    "parent_doi": "https://doi.org/10.5281/zenodo.16927111",
-    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16927111",
-    "parent_html": "https://zenodo.org/records/16927111",
-    "preview_html": "https://zenodo.org/records/16927112?preview=1",
-    "requests": "https://zenodo.org/api/records/16927112/requests",
-    "reserve_doi": "https://zenodo.org/api/records/16927112/draft/pids/doi",
-    "self": "https://zenodo.org/api/records/16927112",
-    "self_doi": "https://doi.org/10.5281/zenodo.16927112",
-    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16927112",
-    "self_html": "https://zenodo.org/records/16927112",
-    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16927112/manifest",
-    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16927112/sequence/default",
-    "versions": "https://zenodo.org/api/records/16927112/versions"
+    "access": "https://zenodo.org/api/records/16928668/access",
+    "access_grants": "https://zenodo.org/api/records/16928668/access/grants",
+    "access_links": "https://zenodo.org/api/records/16928668/access/links",
+    "access_request": "https://zenodo.org/api/records/16928668/access/request",
+    "access_users": "https://zenodo.org/api/records/16928668/access/users",
+    "archive": "https://zenodo.org/api/records/16928668/files-archive",
+    "archive_media": "https://zenodo.org/api/records/16928668/media-files-archive",
+    "communities": "https://zenodo.org/api/records/16928668/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/16928668/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.16928668",
+    "draft": "https://zenodo.org/api/records/16928668/draft",
+    "files": "https://zenodo.org/api/records/16928668/files",
+    "latest": "https://zenodo.org/api/records/16928668/versions/latest",
+    "latest_html": "https://zenodo.org/records/16928668/latest",
+    "media_files": "https://zenodo.org/api/records/16928668/media-files",
+    "parent": "https://zenodo.org/api/records/16928667",
+    "parent_doi": "https://doi.org/10.5281/zenodo.16928667",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16928667",
+    "parent_html": "https://zenodo.org/records/16928667",
+    "preview_html": "https://zenodo.org/records/16928668?preview=1",
+    "requests": "https://zenodo.org/api/records/16928668/requests",
+    "reserve_doi": "https://zenodo.org/api/records/16928668/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/16928668",
+    "self_doi": "https://doi.org/10.5281/zenodo.16928668",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16928668",
+    "self_html": "https://zenodo.org/records/16928668",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16928668/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16928668/sequence/default",
+    "versions": "https://zenodo.org/api/records/16928668/versions"
   },
   "media_files": {
     "count": 0,
@@ -728,11 +133,11 @@
       }
     },
     "communities": {},
-    "id": "16927111",
+    "id": "16928667",
     "pids": {
       "doi": {
         "client": "datacite",
-        "identifier": "10.5281/zenodo.16927111",
+        "identifier": "10.5281/zenodo.16928667",
         "provider": "datacite"
       }
     }
@@ -740,11 +145,11 @@
   "pids": {
     "doi": {
       "client": "datacite",
-      "identifier": "10.5281/zenodo.16927112",
+      "identifier": "10.5281/zenodo.16928668",
       "provider": "datacite"
     },
     "oai": {
-      "identifier": "oai:zenodo.org:16927112",
+      "identifier": "oai:zenodo.org:16928668",
       "provider": "oai"
     }
   },
@@ -767,7 +172,7 @@
   },
   "status": "published",
   "swh": {},
-  "updated": "2025-08-22T12:16:30.260643+00:00",
+  "updated": "2025-08-22T15:33:36.274730+00:00",
   "versions": {
     "index": 1,
     "is_latest": true,
